@@ -1,5 +1,7 @@
-### Hi there 👋
+# Jajader
+I am Jajader, a student in Korea.
 
+I'm currently learning about Java. yet, I am newbie in this field.
 <!--
 **jajader/jajader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
