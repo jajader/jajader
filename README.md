@@ -3,6 +3,8 @@ I am Jajader, a student in Korea.
 
 I'm currently learning about Java. yet, I am newbie in this field.
 
+[![My Skills](https://skillicons.dev/icons?i=java,idea,discord,pr,ps&theme=light)](https://skillicons.dev)
+
 [![jajader's GitHub stats](https://github-readme-stats.vercel.app/api?username=jajader)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jajader/jajader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
