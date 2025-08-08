@@ -1,7 +1,7 @@
 # Jajader
-I am Jajader, a student in Korea.
+I am Jajader, SASA student in Korea.
 
-I'm currently learning about Java. yet, I am newbie in this field.
+I'm currently learning about Java(script). yet, I am newbie in this field.
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,idea,discord,pr,ps&theme=light)](https://skillicons.dev)
 
